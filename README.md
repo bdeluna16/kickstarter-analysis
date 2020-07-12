@@ -22,7 +22,10 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
   - On average, successful campaigns asked for $5,049 while failed campaigns asked for $10,554.00
   - On average, successful campaigns had $5,602 pledged to them while failed campaigns had $559.00 pledged to to them 
   - Failed kickstarter campaigns have a much higher fundraising goal than successful kickstarter campaigns
-  - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts for successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts
+  - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts of successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts
   ![image](https://user-images.githubusercontent.com/67936161/87257872-a0f59480-c453-11ea-8309-8eca2e3cf26a.png)
- 
+ ---
+ ## Conclusion
+ If Louise were to create a kickstart campaign for her play we recommend the following based on the analyses above:
+ * Based on the data of outcomes vs. launch date, Louise has the highest probability of a successful campaign if she launches it in either May or June. She should avoid launching one in November or December. Those months had the lowest amounts of successful campaings launched during those times. 
 
