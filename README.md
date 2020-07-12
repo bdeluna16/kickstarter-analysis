@@ -6,7 +6,7 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 ## Analysis
 ### Kickstarter campaigns for all parent categories. 
 * Based on the data the "theater" category had the most number of kickstart campaigns, most of them performing well.
-<img src="https://user-images.githubusercontent.com/67936161/87256785-79e69500-c44a-11ea-98f8-0ead0b4f0b32.png" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/67936161/87256785-79e69500-c44a-11ea-98f8-0ead0b4f0b32.png" width="700" height="600" />
 
 ### Kickstarter Campaigns for all subcategories.
 * Out of all the subcategories, "plays" had the most numberof/successful amount of kickstarterts
