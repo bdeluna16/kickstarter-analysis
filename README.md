@@ -5,13 +5,15 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 ---
 ## Analysis
 ### Kickstarter campaigns for all parent categories. 
-* Based on the data the "theater" category had the most number of kickstart campaigns, most of them performing well.
+* Out of all of the parent categories the "theater" category had the most number of kickstarter campaigns, most of them performing well.
 <img src="https://user-images.githubusercontent.com/67936161/87256785-79e69500-c44a-11ea-98f8-0ead0b4f0b32.png" width="800" height="400" />
 
 ### Kickstarter Campaigns for all subcategories.
-* Out of all the subcategories, "plays" had the most numberof/successful amount of kickstarterts
+* Out of all of the subcategories, "plays" had the most number of/successful amount of kickstarter campaigns
 ![image](https://user-images.githubusercontent.com/67936161/87257180-8ddfc600-c44d-11ea-915a-8d1ed69f2c2b.png)
 
 ### Outcomes based on launch date
 * Looking at the trend line for successful kickstarter campaigns we can see that campaigns launched in May and June had the highest amount of successes.
 ![image](https://user-images.githubusercontent.com/67936161/87257283-aac8c900-c44e-11ea-886b-9d6e75f4dd7f.png)
+
+## Statistical Analysis
