@@ -4,6 +4,6 @@ Problem Statement: Louise wants to start a crowdfundung campaign to help fund he
 Solution: Performing analyses on Kickstarter data to uncover trends in order to provide Louise better insight on how to start her crowdfunding campaign
 ---
 ## Analysis
-1) Kickstarter Campaigns for "theater" category in the U.S.
+### Kickstarter Campaigns for "theater" category in the U.S.
   
 
