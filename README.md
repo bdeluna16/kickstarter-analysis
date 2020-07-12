@@ -5,7 +5,9 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 ---
 ## Analysis
 ### Kickstarter campaigns for all parent categories provided in the data. 
-1) Based on the data the theater category had the 
+1) Based on the data the theater category had the most number of kickstart campaigns, most of them being successful.
+![Parent Category Pivot Table](C:\Users\bdelu\Desktop\Data Analytics Bootcamp\Analysis Projects\Crowdfunding Project)
+
 
 ### Kickstarter Campaigns for "theater" category in the U.S.
 1) Total of 912 kickstarter campaigns for "theater" category in the U.S.
