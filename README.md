@@ -17,7 +17,7 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 ![image](https://user-images.githubusercontent.com/67936161/87257283-aac8c900-c44e-11ea-886b-9d6e75f4dd7f.png)
 
 ### Statistical Analysis
-* Based on the data below we can conlude the following
+* Based on the data below we can conlude the following:
   - Failed kickstarter campaigns have a much higher fundraising goal than successful kickstarter campaigns
-    - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts for successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts.
+  - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts for successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts.
 
