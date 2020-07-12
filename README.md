@@ -18,6 +18,9 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 
 ### Statistical Analysis
 * Based on the data below we can conlude the following:
+  - On average, successful campaigns asked for $5,049 while failed campaigns asked for $10,554.00
+  - On average, successful campaigns had $5,602 pledged to them while failed campaigns had $559.00 pledged to to them 
   - Failed kickstarter campaigns have a much higher fundraising goal than successful kickstarter campaigns
-  - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts for successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts.
+  - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts for successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts
+ 
 
