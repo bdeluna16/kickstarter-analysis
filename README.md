@@ -6,7 +6,7 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 ## Analysis
 ### Kickstarter campaigns for all parent categories provided in the data. 
 1) Based on the data the theater category had the most number of kickstart campaigns, most of them being successful.
-![image](https://user-images.githubusercontent.com/67936161/87256785-79e69500-c44a-11ea-98f8-0ead0b4f0b32.png | width=100)
+![image](https://user-images.githubusercontent.com/67936161/87256785-79e69500-c44a-11ea-98f8-0ead0b4f0b32.png)
 
 
 ### Kickstarter Campaigns for "theater" category in the U.S.
