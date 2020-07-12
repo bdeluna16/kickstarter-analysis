@@ -16,4 +16,6 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 * Looking at the trend line for successful kickstarter campaigns we can see that campaigns launched in May and June had the highest amount of successes.
 ![image](https://user-images.githubusercontent.com/67936161/87257283-aac8c900-c44e-11ea-886b-9d6e75f4dd7f.png)
 
-## Statistical Analysis
+### Statistical Analysis
+
+![image](https://user-images.githubusercontent.com/67936161/87257474-1e1f0a80-c450-11ea-9fdb-ff1516e84765.png)
