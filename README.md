@@ -4,10 +4,13 @@ Problem Statement: Louise wants to start a crowdfundung campaign to help fund he
 Solution: Performing analyses on Kickstarter data to uncover trends in order to provide Louise better insight on how to start her crowdfunding campaign
 ---
 ## Analysis
+### Kickstarter campaigns for all parent categories provided in the data. 
+1) Based on the data the theater category had the 
+
 ### Kickstarter Campaigns for "theater" category in the U.S.
-1) Total of 912 kickstarter campaigns for "theatre" category in the U.S.
+1) Total of 912 kickstarter campaigns for "theater" category in the U.S.
 2) Cancelled campaigns = 26
 3) Live campaigns = 12
 4) Failed campaigns = 349
 5) Successful campaigns = 525
-
+![image_nmage
