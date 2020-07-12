@@ -28,6 +28,8 @@
   ![image](https://user-images.githubusercontent.com/67936161/87257872-a0f59480-c453-11ea-8309-8eca2e3cf26a.png)
  ---
  ## Conclusion
- If Louise were to create a kickstart campaign for her play we recommend the following based on the analyses above:
+ If Louise were to create a kickstarter campaign for her play we recommend the following based on the analyses above:
+ * Kickstarter campaigns for theater/plays has the highest success rate out of all of the categories/subcategories in the given data. This is good news for Loiuse because her her campaign has a higher probability of succeeding. 
  * Based on the data of outcomes vs. launch date, Louise has the highest probability of a successful campaign if she launches it in either May or June. She should avoid launching one in November or December. Those months had the lowest amounts of successful campaings launched during those times. 
+ * Looking at the statistics, we see that the average goal for successful campaigns in the U.S is $5,049.00. Louise is asking for $10,000.00 which is about twice the amount of the average goal. She should consider reducing the amount of money she asks for in order to create a greater probability of success. 
 
