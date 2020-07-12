@@ -18,4 +18,4 @@ Solution: Performing analyses on Kickstarter data to uncover trends in order to 
 
 ### Statistical Analysis
 
-![image](https://user-images.githubusercontent.com/67936161/87257474-1e1f0a80-c450-11ea-9fdb-ff1516e84765.png)
+![image](https://user-images.githubusercontent.com/67936161/87257872-a0f59480-c453-11ea-8309-8eca2e3cf26a.png)
