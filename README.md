@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/67936161/87257283-aac8c900-c44e-11ea-886b-9d6e75f4dd7f.png)
 
 ### Statistical Analysis
-* These statistics are derived from data that is comprised of all of the pledge/goal amounts from all successful/failed kickstart campaigns in the U.S.
+* These statistics are derived from data that is comprised of all of the pledge/goal amounts from all successful/failed kickstarter campaigns in the U.S.
 * Based on the data below we can conlude the following:
   - On average, successful campaigns asked for $5,049 while failed campaigns asked for $10,554.00
   - On average, successful campaigns had $5,602 pledged to them while failed campaigns had $559.00 pledged to to them 
