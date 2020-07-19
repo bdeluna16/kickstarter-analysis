@@ -45,5 +45,5 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
   * When measuring outcomes based on goals I found that the total number of campaigns for a given range was very little in comparison to other ranges. For example, the number of campaigns that asked for $45000-49999 was 1 which led to a 100% fail rate. A sample size of 1 will not provide an accurate depiction of the overall behavior of campaings in that range and can skew the data. To get a better overall picture of the outcomes for campaigns in ranges that have little data we would need a larger sample size.
 
 - What are some other possible tables and/or graphs that we could create?
- * Line chart with markers
- * Stacked column chart
+  * Line chart with markers
+  * Stacked column chart
