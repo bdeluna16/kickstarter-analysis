@@ -10,6 +10,9 @@ Analyze kickstarter campaign outcomes based on launch date & fundraising goals i
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+![image](https://user-images.githubusercontent.com/67936161/87866858-669c6380-c93b-11ea-8138-39ecd261c39a.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
