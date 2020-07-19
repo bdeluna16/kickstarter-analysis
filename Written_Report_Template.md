@@ -23,6 +23,7 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
 * 76% of campaigns with goals of less than $1000 were successful and 73% of campaigns with goals of $1000-$4999. 
 * Campaigns that asked for $25000-$29999, $30000-34999, $45000-49999, & more than $50000 had the highest percentage of failures.
 * $25000-$29999 had 80% fail, $30000-34999 had 73% fail, $45000-49999 had 100% fail, greater than $50000 had 88% fail
+
 ![image](https://user-images.githubusercontent.com/67936161/87868383-e6312f00-c949-11ea-85f2-f9c272932e22.png)
 
 ![image](https://user-images.githubusercontent.com/67936161/87868397-fcd78600-c949-11ea-845f-8aa4b3107e93.png)
@@ -37,8 +38,12 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
   * Overall there is a greater probability of having a successful campaign launched in either May or June and a lower probability of a successful campaign if launched towards the end of the year.
 
 - What can you conclude about the Outcomes based on Goals?
- * 
+ * Campaigns that asked for the least amount of money saw the highest amount of successes. 
+ * Overall the more money a campaign asked for the higher the probability of failure.
 
 - What are some limitations of this dataset?
+  * When measuring outcomes based on goals I found that the total number of campaigns for a given range was very little in comparison to other ranges. For example, the number of campaigns that asked for $45000-49999 was 1 which led to a 100% fail rate. A sample size of 1 will not provide an accurate depiction of the overall behavior of campaings in that range and can skew the data. To get a better overall picture of the outcomes for campaigns in ranges that have little data we would need a larger sample size.
 
 - What are some other possible tables and/or graphs that we could create?
+* Line chart with markers
+* Stacked column chart
