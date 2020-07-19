@@ -28,7 +28,8 @@
   - On average, successful campaigns had $5,602 pledged to them while failed campaigns had $559.00 pledged to to them 
   - Failed kickstarter campaigns have a much higher fundraising goal than successful kickstarter campaigns
   - The mean & median pledged amounts of failed campaigns are much lower than the mean & median pledged amounts of successful campaigns. This is an indication that failed campaigns are unsuccessful for reasons other than requesting high goal amounts
-  ![image](https://user-images.githubusercontent.com/67936161/87257872-a0f59480-c453-11ea-8309-8eca2e3cf26a.png)
+
+![image](https://user-images.githubusercontent.com/67936161/87257872-a0f59480-c453-11ea-8309-8eca2e3cf26a.png)
  ---
  ## Conclusion
  If Louise were to create a kickstarter campaign for her play we recommend the following based on the analyses above:
