@@ -38,12 +38,12 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
   * Overall there is a greater probability of having a successful campaign launched in either May or June and a lower probability of a successful campaign if launched towards the end of the year.
 
 - What can you conclude about the Outcomes based on Goals?
- * Campaigns that asked for the least amount of money saw the highest amount of successes. 
- * Overall the more money a campaign asked for the higher the probability of failure.
+  * Campaigns that asked for the least amount of money saw the highest amount of successes. 
+  * Overall the more money a campaign asked for the higher the probability of failure.
 
 - What are some limitations of this dataset?
   * When measuring outcomes based on goals I found that the total number of campaigns for a given range was very little in comparison to other ranges. For example, the number of campaigns that asked for $45000-49999 was 1 which led to a 100% fail rate. A sample size of 1 will not provide an accurate depiction of the overall behavior of campaings in that range and can skew the data. To get a better overall picture of the outcomes for campaigns in ranges that have little data we would need a larger sample size.
 
 - What are some other possible tables and/or graphs that we could create?
-* Line chart with markers
-* Stacked column chart
+ * Line chart with markers
+ * Stacked column chart
