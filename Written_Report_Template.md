@@ -9,8 +9,7 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-* 
-* The data in the graph is comprised of all "successful", "failed", and "canceled" kickstarter campaings in all countries from 2009-2017. 
+* The data in the graph is comprised of all "successful", "failed", and "canceled" "theater" kickstarter campaings in all countries from 2009-2017. (in the given dataset) 
 * Looking at the trend line for theater outcomes based on launch date we can see that May and June have the highest number of successful kickstarter campaigns in the "theater" category. The trend line continually declines after June indicating a decrease in the amount of sucessful theater campaigns as the year goes on.
 
 ![image](https://user-images.githubusercontent.com/67936161/87866858-669c6380-c93b-11ea-8138-39ecd261c39a.png)
