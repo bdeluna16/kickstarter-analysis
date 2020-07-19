@@ -16,13 +16,15 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
 ![image](https://user-images.githubusercontent.com/67936161/87866858-669c6380-c93b-11ea-8138-39ecd261c39a.png)
 
 ### Analysis of Outcomes Based on Goals
-* The data in the graph below is a measure of the outcomes of kickstarter campaings in the "play" subcategory vs. fundraising goal.
-* To get the data we got the count of successful, failed, and canceled, campaigns for plays for the ranges listed on the x-axis of the graph. We then summed up the count of campaigns for each range and got the percentage of successful, failed, and canceled campaigns. 
+* The data in the graph below is a measure of the outcomes of kickstarter campaings in the "plays" subcategory vs. fundraising goal.
+* To get the data we got the count of successful, failed, and canceled, campaigns for "plays" for the ranges in the image below. We then summed up the count of campaigns for each range and got the percentage of successful, failed, and canceled campaigns. 
 ![image](https://user-images.githubusercontent.com/67936161/87868278-175d2f80-c949-11ea-8413-ea50c53ec756.png)
 * Kickstarter campaigns with Goals of less than $1000 & $1000-$4999 had the highest amount of successful campaigns. 
 * 76% of campaigns with goals of less than $1000 were successful and 73% of campaigns with goals of $1000-$4999. 
 * Campaings that asked for $25000-$29999, $30000-34999, $45000-49999, & more than $50000 had the highes percentage of failures.
 * $25000-$29999 had 80% fail, $30000-34999 had 73% fail, $45000-49999 had 100% fail, greater than $50000 had 88% fail
+![image](https://user-images.githubusercontent.com/67936161/87868383-e6312f00-c949-11ea-85f2-f9c272932e22.png)
+![image](https://user-images.githubusercontent.com/67936161/87868397-fcd78600-c949-11ea-845f-8aa4b3107e93.png)
 
 ### Challenges and Difficulties Encountered
 
