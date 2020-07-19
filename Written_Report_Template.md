@@ -21,6 +21,10 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  * Kickstarter campaigns launched in May had the highest amount of successful campaigns. 
+  * There is a decline in the number of successful campaings launched in the months following May. 
+  * Overall there is a greater probability of having a successful campaign launched in either May or June and a lower probability of a successful campaign if launched towards the end of the year.
+
 
 - What can you conclude about the Outcomes based on Goals?
 
