@@ -28,6 +28,8 @@ Analyze kickstarter campaign outcomes for the category "theater/play" based on l
 ![image](https://user-images.githubusercontent.com/67936161/87868397-fcd78600-c949-11ea-845f-8aa4b3107e93.png)
 
 ### Challenges and Difficulties Encountered
+* One challenge I could see would be verifiying that the amount of outcomes based on dollar amount range was true. The countif formulas used could contain an error and not capture the true amount of said outcome in the given range. 
+* To overcome this problem you could create a pivot table with the same data and compare it against the totals derived from the countif formulas. From there you can investigate any discrepancies.
 
 ## Results
 
